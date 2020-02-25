@@ -1,6 +1,6 @@
 # include <stdio.h>
  int main()
 {
- printf("i love upes");
+ printf("i tried to love upes");
   return 0;
 }
