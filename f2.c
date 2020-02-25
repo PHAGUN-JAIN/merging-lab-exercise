@@ -2,7 +2,12 @@
  int main()
 {
  printf("i tried to love upes");
- printf("but failed");
- printf("I love roaming"); 
+ printf("but failed"); 
  return 0;
+=======
+ printf("I love doon");
+printf(" dimaag ka dahi ho gya"); 
+ return 0;
+
+>>>>>>> test
 }
